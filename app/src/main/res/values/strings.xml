@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practice1</string>
+    <string name="Em">Email:</string>
+    <string name="Pa">Password:</string>
+    <string name="TyEm">Type your Email Address</string>
+    <string name="TyPa">Type your Password</string>
+    <string name="Lo">LOGIN</string>
+    <string name="note">New user? <u>Register here.</u></string>
+</resources>
